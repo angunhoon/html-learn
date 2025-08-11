@@ -1,0 +1,32 @@
+*{margin: 0; padding: 0;}
+a{text-decoration: none; color: black;}
+li{list-style: none;}
+
+body{
+    background-color: #fafafa;
+    display: flex;
+    justify-content: center;
+}
+
+ul{
+    width: 1170px;
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 25px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.1);
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+}
+
+ul li{
+    
+}
+
+ul li a{
+    font-size: 25px;
+    padding: 0 10px;
+}
+
